@@ -8,7 +8,7 @@
   ],
   "success_url": "https://telegram.dog/TeleRoid_Hotstar_Bot",
   "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
+  "repository": "https://github.com/tecnokhiladi/URLuploader-With-Hotstar",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
